@@ -35,10 +35,10 @@ function Layout(props) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@butanokeiton" />
         <meta name="twitter:creator" content="@butanokeiton" />
-        <meta property="og:url" content="https://penguinspizza.github.io/js-calc/" />
-        <meta property="og:title" content="JavaScript Calculator v1.1.0" />
+        <meta property="og:url" content="https://js-calc-for-vercel.vercel.app/" />
+        <meta property="og:title" content="JavaScript Calculator v0.0.1" />
         <meta property="og:description" content="JavaScriptでコードを書くように計算式を実行できます。" />
-        <meta property="og:image" content="https://raw.githubusercontent.com/penguinspizza/js-calc/main/favicon.ico" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/penguinspizza/js-calc-for-vercel/main/public/favicon.ico" />
         <meta name="description" content="JavaScriptでコードを書くように計算式を実行できます。" />
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossOrigin="anonymous"></link>
       </Head>
